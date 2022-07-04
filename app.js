@@ -39,3 +39,8 @@
 
 // Question 6
 
+// var a = new Date().getTime();
+// var b = a/1000/60
+// document.write("Current Date: "+ new Date()+"<br>")
+// document.write("Elapsed milliseconds since January 1, 1970: "+ a+"<br>");
+// document.write("Elapsed minutes since January 1, 1970: "+ b);
