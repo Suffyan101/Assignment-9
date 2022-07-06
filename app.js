@@ -55,3 +55,9 @@
 // else{
 //     document.write("It's "+ a + " PM")
 // }
+
+// Question 8
+
+// var laterDate = new Date("12 31 2022")
+// console.log("later Date: "+laterDate)
+
