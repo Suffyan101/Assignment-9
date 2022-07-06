@@ -44,3 +44,14 @@
 // document.write("Current Date: "+ new Date()+"<br>")
 // document.write("Elapsed milliseconds since January 1, 1970: "+ a+"<br>");
 // document.write("Elapsed minutes since January 1, 1970: "+ b);
+
+// Question 7
+
+// var a = new Date().getHours()
+
+// if(a<=12){
+//     document.write("It's "+ a + ":00 AM")
+// }
+// else{
+//     document.write("It's "+ a + " PM")
+// }
