@@ -114,19 +114,19 @@
 
 // Question 14
 
-function billgenerate(){
+// function billgenerate(){
     
-var a = document.getElementById("demo").value;
-var b = document.getElementById("demo1").value;
-var c = document.getElementById("demo2").value;
-var d = document.getElementById("demo3").value;
-var e = 350
-var f = e + parseInt(c*d)
-document.getElementById("demo4").innerHTML = "Customer Name: "+a
-document.getElementById("demo5").innerHTML = "Month: "+b;
-document.getElementById("demo6").innerHTML = "Net Amount Payable (Within Due Date): "+ c*d
-document.getElementById("demo7").innerHTML = "Late payment surcharge: "+e;
-document.getElementById("demo8").innerHTML = "Gross Amount Payable (After Due Date): "+ f
+// var a = document.getElementById("demo").value;
+// var b = document.getElementById("demo1").value;
+// var c = document.getElementById("demo2").value;
+// var d = document.getElementById("demo3").value;
+// var e = 350
+// var f = e + parseInt(c*d)
+// document.getElementById("demo4").innerHTML = "Customer Name: "+a
+// document.getElementById("demo5").innerHTML = "Month: "+b;
+// document.getElementById("demo6").innerHTML = "Net Amount Payable (Within Due Date): "+ c*d
+// document.getElementById("demo7").innerHTML = "Late payment surcharge: "+e;
+// document.getElementById("demo8").innerHTML = "Gross Amount Payable (After Due Date): "+ f
 
 
-}
+// }
